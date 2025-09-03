@@ -1,0 +1,8 @@
+1. conditional rendering
+2. how to show loader on screen?
+3. how nested components works?
+4. how can we route using link?
+5. lazy loading
+6. destructuring
+7. global state management => props drilling
+8. 
